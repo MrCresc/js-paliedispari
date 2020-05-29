@@ -1,0 +1,30 @@
+body {
+  background-color: #040A26;
+  color: gray;
+}
+
+.container {
+  padding: 10px;
+  margin: 25px;
+  text-align: center;
+  border: 2px solid gray;
+  background-color: #021F1E;
+}
+
+button {
+  margin: 5px;
+}
+
+.container.dispari {
+  background-color: #260404;
+}
+
+.nested {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+p {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
